@@ -1,1 +1,1 @@
-# test--JS
+Bot para iterar pelos painéis em loop
